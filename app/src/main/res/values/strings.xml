@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo_Eventos_NoSQL</string>
+    <string name="tareas">TAREAS</string>
+    <string name="título">Título de la Tarea:</string>
+    <string name="descripción">Descripción de la Tarea:</string>
+    <string name="agregar_tarea">Agregar Tarea</string>
+    <string name="actualizar_tarea">Actualizar Tarea</string>
+</resources>
